@@ -1,0 +1,46 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+    /* border: solid coral 8px; */
+  background-color: rgb(241, 241, 239);
+  margin: none;
+}
+
+h1 {
+  width: auto;
+  color:rgb(29, 19, 19);
+  padding: 10px;
+  /* background-color: grey; */
+  text-align: center;
+  font-size: 45px;
+}
+
+#p1 {
+    float: none;
+    padding-top: 20px;
+  padding-bottom: 10px;
+  
+  font-size: 25px;
+  text-align: center;
+  color: rgb(40, 39, 59);
+  border-bottom: solid rgb(214, 96, 96) 2px;
+}
+
+#div2 {
+  padding: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: rgb(61, 9, 22);
+  /* background-color: gray; */
+  width: auto;
+  margin: auto;
+  text-align: center;
+}
+
+#noOfWins,#noOfLosses,#guessLeft{
+    padding-bottom: 70px;
+
+}
