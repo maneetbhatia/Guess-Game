@@ -18,16 +18,15 @@
 
 **Live Link**
 
-https://maneet79.github.io/Guess-Game/.
-
+https://maneetbhatia.github.io/Guess-Game/
 <br>
 
 **Author**
 
-Maneet Singh - https://github.com/Maneet97
+Maneet Singh - https://github.com/maneetbhatia
 
 <br>
 
 **License**
 
-This project is licensed under the MIT License - see the https://github.com/Maneet97 file for details
+This project is licensed under the MIT License - see the https://github.com/maneetbhatia file for details
